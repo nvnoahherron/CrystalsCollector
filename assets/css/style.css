@@ -1,0 +1,79 @@
+body {
+		background-color: #cccccc;
+}
+.container {
+	background-image: url("../images/background2.jpg");
+	width: 100%;
+	height: 960px;
+}
+#gameName {
+	border: 3px solid black;
+	width: 400px;
+	height: 100px;
+	background-color: orange;
+	color: white;
+	text-align: center;
+	vertical-align: middle;
+	line-height: 100px;
+	font-size: 40px;
+}
+#instructions {
+	background-color: orange;
+	border: 3px solid black;
+	width: 50%;
+	clear:both;
+	padding: 10px;
+	margin-top: 20px; 
+	color: white;
+}
+#targetNumber {
+	border: 3px solid black;
+	margin-top: 20px;
+	text-align: center;
+	vertical-align: middle;
+	background-color: orange;
+	width: 15%;
+	height: 100px;
+	color: white;
+	float: left;
+	display: inline-block;
+	font-size: 40px;
+
+}
+#scoreboard {
+	border: 3px solid black;
+	margin-top: 20px;
+	float-left;
+	display: inline-block;
+	margin-left: 20px;
+	background-color: orange;
+	color:white;
+	padding: 1px;
+	width: 100px;
+}
+#crystals {
+	border: 3px solid black;
+	margin-top: 20px;
+	height: 100px;
+	width: 413px;
+	background-color: orange;
+}
+#red {
+	width:100px;
+	height: 100px;
+}
+#blue {
+	width: 100px;
+	height: 100px;
+}
+#green {
+	width: 100px;
+	height: 100px;
+}
+#yellow {
+	width: 100px;
+	height: 100px;
+}
+h3 {
+	color: white;
+}
