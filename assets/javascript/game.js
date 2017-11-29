@@ -17,7 +17,7 @@ $(document).ready(function(){
 
 	function newgame(){
 
-		var targetNumber = Math.floor(Math.random() * 25+25);
+		targetNumber = Math.floor(Math.random() * 25+25);
 
 		$("#targetNumber").text(targetNumber);
 
